@@ -1,0 +1,172 @@
+.top-h1{
+    font-weight: bolder;
+    font-size: 5rem;
+    
+}
+
+.word{
+    color: blue;
+    text-size-adjust:5rem;
+
+
+    
+}
+
+.space{
+    letter-spacing: 2px;
+    /* background-color: aqua; */
+    font-weight: lighter;
+    color: gray;
+    font-size: 35px;
+    margin-bottom: 10rem;
+
+    
+}
+
+
+.worldwide{
+    text-align: center;
+margin-top: 2rem;
+margin-top: 2%;
+
+}
+
+
+.biggs{
+background-color:whitesmoke;
+width:100% ;
+height:250px; 
+margin-top: 20px;
+margin-bottom:2rem;
+
+
+}
+
+.figures{
+    color: rgb(13, 0, 255);
+    font-style:italic;
+    border-radius: 5px;
+    text-decoration:bold;
+
+}
+
+.started{
+
+    text-align: center;
+    margin-top:2px ;
+    margin-bottom:5rem ;
+    
+    /* text-size-adjust: 5rem;
+    border-spacing:2rem ; */
+    border-radius: 10px;
+    height:18rem ;
+    width:100% ;
+
+}
+
+.share{
+    text-transform: capitalize;
+    border: 5px;
+    background-color: aliceblue;
+    width: 25%;
+    /* border-left: solid 1px ; */
+    margin-left: 80px;
+    margin-top: 20px;
+    /* border-right:solid 1px whitesmoke; */
+    box-shadow: rgba(0, 0, 0, 0.24) 40px 40px 40px;
+    /* box-shadow: rgba(246, 242, 242, 0.24) 0px 3px 8px; */ 
+
+}
+
+.type{
+    text-transform: capitalize;
+text-align: center;
+margin-top: 2rem;
+width: 100%;
+border: 5px;
+border-spacing: 20rem;
+margin-bottom: 20px;
+}
+
+
+.rope{text-transform: capitalize;
+    border-left:solid 1px;
+    box-shadow: rgba(0, 0, 0, 0.24) 60px 40px 80px;
+    height: 300px;
+}
+
+.will{
+    text-align: center;
+    border-right: 1px solid;
+    border-right: 1px solid;
+}
+
+.work{
+text-transform: capitalize;
+text-align: center;
+margin-top: 7rem;
+margin-bottom:5rem ;
+border-left: solid 1px;
+border-radius: 10px;
+ box-shadow: rgba(0, 0, 0, 0.24) 60px 40px 80px;
+ height: 300px;
+ width: 100%;
+
+
+}
+
+.none{
+color: blueviolet;
+text-align: center;
+border-radius: 10px;
+border-left: bold 1px;
+
+}
+
+.best{
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom:15rem ;
+    color: palegreen;
+}
+
+
+.meeting{
+    color :pink;
+    text-align: center;
+    margin-bottom: 15rem;
+}
+
+.textbut{
+    color: white;
+    background-color: blue;
+    border-radius: 40px;
+    border: 1px  solid;
+    border-left:50px ;
+    border-right:20px ;
+    height:70px ;
+    width: 140px;
+
+}
+
+.inputgame{
+    border-radius: 40px;
+    height:90px ;
+    width:250px;
+    text-align: center;
+}
+
+.button{
+    background-color: rgb(51, 0, 255);
+    height:90px ;
+    width:150px;
+    border-radius:40px ;
+    position: relative;
+    left: 15%;
+    position: absolute;
+    bottom: 0.%;
+    margin-top:none ;
+
+ 
+    
+}
